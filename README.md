@@ -1,76 +1,93 @@
-<!-- GANTI: USERNAME = username GitHub kamu, lalu edit bagian [ ... ] -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=140&section=header&text=%5BNama%20Kamu%5D&fontSize=44&fontColor=c0caf5&fontAlignY=45&desc=Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Lifelong%20Learner&descSize=16&descColor=7aa2f7&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=150&section=header&text=Nathanael%20Sianipar&fontSize=44&fontColor=c0caf5&fontAlignY=45&desc=Software%20Developer&descSize=18&descColor=7aa2f7&descAlignY=72" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=7AA2F7&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Membangun+hal+yang+bermanfaat;Selalu+belajar%2C+terus+berkembang" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/USERNAME?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/stars/USERNAME?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" />
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=24283b&labelColor=1a1b26&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/stars/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=24283b&labelColor=1a1b26&style=flat-square" />
 </p>
 
 <br>
 
-## 👋 Tentang Saya
+## About
 
-```text
-~ $ whoami
-  Nama      [Nama Kamu]
-  Peran     [Web Developer / Mahasiswa IT / dll]
-  Lokasi    Indonesia 🇮🇩
-  Fokus     [Web Dev, Backend, Cyber Security, dll]
-  Belajar   [Docker, TypeScript, Cloud, dll]
-  Kontak    [email kamu]
-```
+Saya Nathanael Sianipar, seorang [Mahasiswa Informatika / Software Developer] yang berfokus pada pengembangan aplikasi web dan mobile. Saya senang membangun solusi yang rapi, mudah dipelihara, dan bermanfaat bagi penggunanya.
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+- Fokus saat ini: [nama proyek atau bidang yang sedang dikerjakan]
+- Sedang dipelajari: [teknologi yang sedang dipelajari]
+- Terbuka untuk: kolaborasi proyek, magang, dan diskusi teknis
+- Kontak: [email kamu]
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,py,html,css,c,java,dart&perline=8&theme=dark" />
+</p>
+
+<sub>JavaScript, PHP, Python, HTML, CSS, C, Java, Dart</sub>
+
+### Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,flutter&perline=8&theme=dark" />
+</p>
+
+<sub>Spring Boot, Laravel, Flutter</sub>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&perline=8&theme=dark" />
+</p>
+
+<sub>SQL (MySQL)</sub>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8&theme=dark" />
+</p>
+
+<sub>Git, GitHub, Visual Studio Code</sub>
+
+<br>
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,python,mysql,postgres,docker,git,linux,figma&perline=8&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanaelSianipar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelSianipar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" />
 </p>
 
 <br>
 
-## 📊 Statistik GitHub
+## Featured Projects
 
+<!-- Ganti REPO_1 dan REPO_2 dengan nama repository terbaik kamu, atau hapus bagian ini -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" />
-</p>
-
-<br>
-
-## 📌 Proyek Pilihan
-
-<!-- Ganti REPO_1 dan REPO_2 dengan nama repo terbaikmu, atau hapus bagian ini -->
-<p align="center">
-  <a href="https://github.com/USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
+  <a href="https://github.com/NathanaelSianipar/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
   </a>
-  <a href="https://github.com/USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
+  <a href="https://github.com/NathanaelSianipar/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
   </a>
 </p>
 
 <br>
 
-## 📬 Mari Terhubung
+## Contact
 
-<p align="center">
+<p>
   <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=flat-square&logo=gmail&logoColor=c0caf5" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=c0caf5" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-24283b?style=flat-square&logo=instagram&logoColor=c0caf5" /></a>
+  <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=c0caf5" /></a>
+  <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=flat-square&logo=instagram&logoColor=c0caf5" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=50&section=footer" width="100%" />
