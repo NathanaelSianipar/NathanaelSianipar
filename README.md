@@ -1,113 +1,157 @@
-<!-- ═════════════════════════ HEADER ═════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:bb9af7&height=220&section=header&text=Nathanael%20Sianipar&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Institut%20Teknologi%20Del&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
-
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=240&section=header&text=Nathanael%20Sianipar&fontSize=54&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Informatics%20Student&descSize=18&descColor=7aa2f7&descAlignY=58" width="100%" alt="Header" />
+
 <a href="https://github.com/NathanaelSianipar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=45&lines=Fullstack+Developer;Laravel+%7C+JavaScript+%7C+Python+%7C+Go+%7C+Rust;Membangun+solusi+yang+rapi+dan+mudah+dipelihara" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Nathanael+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+mudah+dipelihara;Laravel+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Go+%C2%B7+Rust;Terbuka+untuk+kolaborasi+%26+magang" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/github/followers/NathanaelSianipar?style=for-the-badge&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Followers" />
-<img src="https://img.shields.io/github/stars/NathanaelSianipar?style=for-the-badge&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=3d59a1&labelColor=1a1b26&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Institut_Teknologi_Del-1a1b26?style=for-the-badge&logo=bookstack&logoColor=7aa2f7&labelColor=24283b" alt="IT Del" />
+<img src="https://img.shields.io/badge/D3_Teknologi_Informasi-1a1b26?style=for-the-badge&logo=graduation-cap&logoColor=bb9af7&labelColor=24283b" alt="D3 TI" />
+<img src="https://img.shields.io/badge/Open_to-Collab_%26_Internship-1a1b26?style=for-the-badge&logo=handshake&logoColor=9ece6a&labelColor=24283b" alt="Open to" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Followers" />
+<img src="https://img.shields.io/github/stars/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=7aa2f7&labelColor=1a1b26&style=flat-square" alt="Views" />
 
 </div>
 
-<br>
+<br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=About%20Me&height=80&fontSize=34&fontAlignY=50" alt="About Me" />
+</div>
 
-Saya **Nathanael Sianipar**, mahasiswa D3 Teknologi Informasi di Institut Teknologi Del yang berfokus pada pengembangan aplikasi web dan mobile. Saya senang membangun solusi yang rapi, mudah dipelihara, dan bermanfaat bagi penggunanya.
+<div align="center">
+
+Saya **Nathanael Sianipar**, *fullstack developer* sekaligus mahasiswa **D3 Teknologi Informasi** di **Institut Teknologi Del**.<br/>
+Saya senang membangun solusi yang **rapi, mudah dipelihara, dan bermanfaat**, dengan perhatian khusus pada kualitas UI/UX.
+
+</div>
 
 ```js
 const nathanael = {
-  name: "Nathanael Sianipar",
-  role: "Fullstack Developer",
+  role:      "Fullstack Developer",
   education: "D3 Teknologi Informasi @ Institut Teknologi Del",
-  focus: ["Web", "Mobile", "Clean & maintainable code"],
-  openTo: ["Kolaborasi proyek", "Magang", "Diskusi teknis"],
+  stack:     ["Laravel", "JavaScript", "Python", "Go", "Rust"],
+  focus:     "Web development: kode bersih, UI rapi",
+  openTo:    ["Kolaborasi proyek", "Magang", "Diskusi teknis"],
 };
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Tech%20Stack&height=80&fontSize=34&fontAlignY=50" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
-**Languages**
-
+<img src="https://img.shields.io/badge/LANGUAGES-24283b?style=flat-square&labelColor=24283b&color=24283b&logoColor=7aa2f7" alt="Languages" /><br/>
 <img src="https://skillicons.dev/icons?i=js,php,py,go,rust,html,css,c,java,dart&perline=10&theme=dark" alt="Languages" />
 
-**Frameworks**
+<br/><br/>
 
+<img src="https://img.shields.io/badge/FRAMEWORKS-24283b?style=flat-square&labelColor=24283b&color=24283b" alt="Frameworks" /><br/>
 <img src="https://skillicons.dev/icons?i=laravel,spring,flutter&perline=10&theme=dark" alt="Frameworks" />
 
-**Database & Tools**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=10&theme=dark" alt="Database and Tools" />
+<img src="https://img.shields.io/badge/DATABASE-24283b?style=flat-square&labelColor=24283b&color=24283b" alt="Database" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql&perline=10&theme=dark" alt="Database" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TOOLS-24283b?style=flat-square&labelColor=24283b&color=24283b" alt="Tools" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10&theme=dark" alt="Tools" />
 
 </div>
 
-<br>
+<br/>
 
-## 📊 GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb9af7,100:7aa2f7&height=3" width="100%" alt="" />
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=GitHub%20Stats&height=80&fontSize=34&fontAlignY=50" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NathanaelSianipar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelSianipar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanaelSianipar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelSianipar&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
 
-<br>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="Streak" />
 
-<br>
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelSianipar&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=3d59a1&hide_border=true&title_color=7aa2f7" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelSianipar&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
-<br>
+<br/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanaelSianipar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3" width="100%" alt="" />
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Projects&height=80&fontSize=34&fontAlignY=50" alt="Projects" />
+
+  <a href="https://github.com/NathanaelSianipar?tab=repositories">
+    <img src="https://img.shields.io/badge/Lihat_Semua_Repositori-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b26" alt="Repositories" />
+  </a>
+</div>
 
 <!--
-═════════════════════ FEATURED PROJECTS ═════════════════════
-Hapus tanda komentar HTML di sekitar blok ini setelah REPO_1 dan
-REPO_2 diganti dengan nama repository kamu yang sebenarnya.
+  Untuk menampilkan proyek unggulan, hapus tanda komentar ini dan ganti REPO_1 / REPO_2
+  dengan nama repository kamu yang sebenarnya:
 
-## 🚀 Featured Projects
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/NathanaelSianipar/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="REPO_1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
   </a>
   <a href="https://github.com/NathanaelSianipar/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="REPO_2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
   </a>
-</div>
+</p>
 -->
 
-## 🤝 Let's Connect
+<br/>
 
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Let's%20Connect&height=80&fontSize=34&fontAlignY=50" alt="Let's Connect" />
 
-<a href="https://github.com/NathanaelSianipar"><img src="https://img.shields.io/badge/GitHub-NathanaelSianipar-24283b?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" /></a>
+  <a href="https://github.com/NathanaelSianipar"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" /></a>
 
 <!--
-Tambahkan badge kontak lain di sini setelah diisi dengan data asli:
+  Tambahkan badge berikut setelah mengisi data kamu yang sebenarnya:
 
-<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=c0caf5" alt="Email" /></a>
-<a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
-<a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=c0caf5" alt="Email" /></a>
+  <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
 -->
 
-<br><br>
+  <br/><br/>
 
-<sub>Terima kasih sudah berkunjung. ✨</sub>
-
+  <sub><i>"Clean code, clean UI."</i></sub><br/>
+  <sub>Terima kasih sudah berkunjung ✨</sub>
 </div>
 
-<!-- ═════════════════════════ FOOTER ═════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:bb9af7&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,45:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="Footer" />
