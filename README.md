@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=24283b&labelColor=1a1b26&style=flat-square" />
 </p>
 
+<img src="https://id.pinterest.com/pin/61009769947710727/" alt="Anime GIF" />
+
 <br>
 
 ## About
