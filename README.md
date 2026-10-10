@@ -123,8 +123,8 @@ const nathanael = {
 
   <a href="https://github.com/NathanaelSianipar"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" /></a>
   <a href="mailto:natanaelseptians@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=c0caf5" alt="Email" /></a>
-  <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/nathanael-sianipar-345759342/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/natanael_septiaan/"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
 
 <!--
   Tambahkan badge berikut setelah mengisi data kamu yang sebenarnya:
