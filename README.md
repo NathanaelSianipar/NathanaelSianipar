@@ -7,6 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Nathanael+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+mudah+dipelihara;Laravel+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Go+%C2%B7+Rust;Terbuka+untuk+kolaborasi+%26+magang" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/m3r_8NhxM9MAAAAd/cat-clapping-ai-cat-clapping.gif" width="200" alt="Cat clapping" />
+  <br>
+  <sub><i>Terima kasih sudah mampir ke profil saya! 👏</i></sub>
+</p>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Institut_Teknologi_Del-1a1b26?style=for-the-badge&logo=bookstack&logoColor=7aa2f7&labelColor=24283b" alt="IT Del" />
