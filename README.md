@@ -30,8 +30,7 @@
 
 <div align="center">
 
-Saya **Nathanael Sianipar**, *fullstack developer* sekaligus mahasiswa **D3 Teknologi Informasi** di **Institut Teknologi Del**.<br/>
-Saya senang membangun solusi yang **rapi, mudah dipelihara, dan bermanfaat**, dengan perhatian khusus pada kualitas UI/UX.
+Berfokus pada pengembangan perangkat lunak yang andal dan terstruktur, saya berkomitmen untuk membangun sistem yang mudah dipelihara (maintainable), efisien, serta menerapkan prinsip clean code dalam setiap solusi teknis.
 
 </div>
 
