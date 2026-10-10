@@ -1,5 +1,5 @@
 <!-- ============ HEADER (wave animasi) ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=240&section=header&text=Nathanael%20Sianipar&fontSize=54&fontColor=c0caf5&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descSize=20&descColor=bb9af7&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Header" />
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
@@ -94,22 +94,15 @@ Saya senang membangun solusi yang rapi, mudah dipelihara, dan bermanfaat bagi pe
   <img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89&border_radius=12" />
 </p>
 
-<!-- Grafik aktivitas kontribusi -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelSianipar&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true&title_color=7aa2f7" width="95%" />
-</p>
-
-<!-- Trofi -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanaelSianipar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
 <br>
 
 <!-- ============ FEATURED PROJECTS ============ -->
+<!-- FEATURED PROJECTS (nonaktif)
+Cara mengaktifkan: ganti REPO_1 dan REPO_2 dengan nama repository asli,
+lalu pindahkan blok ini keluar dari komentar.
+
 <h2 align="center">✦ Featured Projects ✦</h2>
 
-<!-- Ganti REPO_1 dan REPO_2 dengan nama repository terbaik kamu, atau hapus bagian ini -->
 <p align="center">
   <a href="https://github.com/NathanaelSianipar/REPO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&border_radius=12" />
@@ -118,6 +111,7 @@ Saya senang membangun solusi yang rapi, mudah dipelihara, dan bermanfaat bagi pe
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanaelSianipar&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&border_radius=12" />
   </a>
 </p>
+-->
 
 <br>
 
@@ -130,10 +124,5 @@ Saya senang membangun solusi yang rapi, mudah dipelihara, dan bermanfaat bagi pe
   <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" /></a>
 </p>
 
-<!-- Kutipan acak -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 <!-- ============ FOOTER (wave animasi) ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Footer" />
