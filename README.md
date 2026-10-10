@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=24283b&labelColor=1a1b26&style=flat-square" />
 </p>
 
-<img src="https://id.pinterest.com/pin/61009769947710727/" alt="Anime GIF" />
+<img src="https://tenor.com/id/view/cat-clapping-ai-cat-clapping-meme-trend-funny-gif-11203548432926061523" alt="Anime GIF" />
 
 <br>
 
