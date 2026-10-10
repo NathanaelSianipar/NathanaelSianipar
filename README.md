@@ -1,8 +1,10 @@
-<h1 align="center">Nathanael Sianipar</h1>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Nathanael Sianipar - Software Developer" />
+</p>
 
 <p align="center">
   <a href="https://github.com/NathanaelSianipar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&height=45&lines=Software+Developer;Web+%26+Mobile+Development;Terbuka+untuk+kolaborasi+dan+magang" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Web+%26+Mobile+Developer;Membangun+solusi+yang+rapi+dan+mudah+dipelihara;Terbuka+untuk+kolaborasi+dan+magang" alt="Typing animation" />
   </a>
 </p>
 
@@ -12,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=24283b&labelColor=1a1b26&style=for-the-badge" alt="Profile views" />
 </p>
 
-<hr>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Tentang Saya
 
@@ -25,7 +27,7 @@ Saya Nathanael Sianipar, seorang **[Mahasiswa Informatika / Software Developer]*
 | **Terbuka untuk** | Kolaborasi proyek, magang, dan diskusi teknis |
 | **Kontak** | [email kamu] |
 
-<hr>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Tech Stack
 
@@ -64,7 +66,7 @@ Saya Nathanael Sianipar, seorang **[Mahasiswa Informatika / Software Developer]*
   <img src="https://img.shields.io/badge/VS_Code-24283b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 </p>
 
-<hr>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Statistik GitHub
 
@@ -77,11 +79,21 @@ Saya Nathanael Sianipar, seorang **[Mahasiswa Informatika / Software Developer]*
   <img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89&border_radius=12" alt="GitHub streak" />
 </p>
 
+<!-- ANIMASI ULAR KONTRIBUSI (opsional, nonaktif)
+Aktifkan setelah file .github/workflows/snake.yml di-upload dan workflow
+"Generate Snake" selesai dijalankan sekali (tab Actions). Lalu pindahkan
+blok ini keluar dari komentar.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NathanaelSianipar/NathanaelSianipar/output/github-snake.svg" width="100%" alt="Contribution snake" />
+</p>
+-->
+
 <!-- PROYEK UNGGULAN (nonaktif)
-Cara mengaktifkan: ganti REPO_1 dan REPO_2 dengan nama repository asli,
+Ganti REPO_1 dan REPO_2 dengan nama repository asli,
 lalu pindahkan blok ini keluar dari komentar.
 
-<hr>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Proyek Unggulan
 
@@ -95,7 +107,7 @@ lalu pindahkan blok ini keluar dari komentar.
 </p>
 -->
 
-<hr>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Kontak
 
