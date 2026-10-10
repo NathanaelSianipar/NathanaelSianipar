@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=NathanaelSianipar&label=Profile+Views&color=24283b&labelColor=1a1b26&style=flat-square" />
 </p>
 
-<img src="https://tenor.com/id/view/cat-clapping-ai-cat-clapping-meme-trend-funny-gif-11203548432926061523" alt="Anime GIF" />
+<div class="tenor-gif-embed" data-postid="11203548432926061523" data-share-method="host" data-aspect-ratio="0.76506" data-width="100%"><a href="https://tenor.com/view/cat-clapping-ai-cat-clapping-meme-trend-funny-gif-11203548432926061523">Cat Clapping Ai Cat Clapping GIF</a>from <a href="https://tenor.com/search/cat+clapping-gifs">Cat Clapping GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br>
 
