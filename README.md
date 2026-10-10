@@ -36,7 +36,7 @@ Saya senang membangun solusi yang **rapi, mudah dipelihara, dan bermanfaat**, de
 </div>
 
 ```js
-export const nathanael = {
+export const DataDiri = {
   profile: {
     name : "Nathanael Septian Sianipar",
     role : "Fullstack Developer" (calon),
