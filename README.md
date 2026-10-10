@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Nathanael+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+mudah+dipelihara;Laravel+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Go+%C2%B7+Rust;Terbuka+untuk+kolaborasi+%26+magang" alt="Typing SVG" />
 </a>
 
-
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Institut_Teknologi_Del-1a1b26?style=for-the-badge&logo=bookstack&logoColor=7aa2f7&labelColor=24283b" alt="IT Del" />
@@ -24,12 +22,6 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/m3r_8NhxM9MAAAAd/cat-clapping-ai-cat-clapping.gif" width="200" alt="Cat clapping" />
-  <br>
-  <sub><i>Terima kasih sudah mampir ke profil saya! 👏</i></sub>
-</p>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <div align="center">
@@ -130,6 +122,9 @@ const nathanael = {
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Let's%20Connect&height=80&fontSize=34&fontAlignY=50" alt="Let's Connect" />
 
   <a href="https://github.com/NathanaelSianipar"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" /></a>
+  <a href="mailto:natanaelseptians@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=c0caf5" alt="Email" /></a>
+  <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
 
 <!--
   Tambahkan badge berikut setelah mengisi data kamu yang sebenarnya:
@@ -138,6 +133,12 @@ const nathanael = {
   <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" /></a>
   <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
 -->
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/m3r_8NhxM9MAAAAd/cat-clapping-ai-cat-clapping.gif" width="200" alt="Cat clapping" />
+  <br>
+  <sub><i>Terima kasih sudah mampir ke profil saya! 👏</i></sub>
+</p>
 
   <br/><br/>
 
