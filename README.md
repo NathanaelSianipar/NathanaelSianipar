@@ -92,23 +92,6 @@ const nathanael = {
 
 <img src="https://streak-stats.demolab.com?user=NathanaelSianipar&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="Streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelSianipar&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanaelSianipar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3" width="100%" alt="" />
-
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Projects&height=80&fontSize=34&fontAlignY=50" alt="Projects" />
