@@ -134,16 +134,12 @@ const nathanael = {
   <a href="https://instagram.com/INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-24283b?style=for-the-badge&logo=instagram&logoColor=c0caf5" alt="Instagram" /></a>
 -->
 
+  <br/><br/>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/m3r_8NhxM9MAAAAd/cat-clapping-ai-cat-clapping.gif" width="200" alt="Cat clapping" />
   <br>
   <sub><i>Terima kasih sudah mampir ke profil saya! 👏</i></sub>
 </p>
-
-  <br/><br/>
-
-  <sub><i>"Clean code, clean UI."</i></sub><br/>
-  <sub>Terima kasih sudah berkunjung ✨</sub>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,45:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="Footer" />
