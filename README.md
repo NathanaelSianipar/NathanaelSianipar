@@ -36,12 +36,18 @@ Saya senang membangun solusi yang **rapi, mudah dipelihara, dan bermanfaat**, de
 </div>
 
 ```js
-const nathanael = {
-  role:      "Fullstack Developer",
-  education: "D3 Teknologi Informasi @ Institut Teknologi Del",
-  stack:     ["Laravel", "JavaScript", "Python", "Go", "Rust"],
-  focus:     "Web development: kode bersih, UI rapi",
-  openTo:    ["Kolaborasi proyek", "Magang", "Diskusi teknis"],
+export const nathanael = {
+  profile: {
+    name : "Nathanael Septian Sianipar",
+    role : "Fullstack Developer" (calon),
+    major : "D3 Teknologi Informasi",
+    university : "Del Institute of Technology",
+  },
+
+  status: {
+    Jomblo 19 Tahun,
+    accepts: ["Internship", "Project Collaboration", "Technical Discussions"]
+  }
 };
 ```
 
