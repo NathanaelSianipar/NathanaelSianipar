@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/D3_Teknologi_Informasi-1a1b26?style=for-the-badge&logo=graduation-cap&logoColor=bb9af7&labelColor=24283b" alt="D3 TI" />
 <img src="https://img.shields.io/badge/Open_to-Collab_%26_Internship-1a1b26?style=for-the-badge&logo=handshake&logoColor=9ece6a&labelColor=24283b" alt="Open to" />
 
-<br/><br/>
+<br/> <br/>
 
 <img src="https://img.shields.io/github/followers/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Followers" />
 <img src="https://img.shields.io/github/stars/NathanaelSianipar?style=flat-square&logo=github&logoColor=c0caf5&color=24283b&labelColor=1a1b26" alt="Stars" />
