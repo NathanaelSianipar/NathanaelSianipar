@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=240&section=header&text=Nathanael%20Septian%20Sianipar&fontSize=54&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Informatics%20Student&descSize=18&descColor=7aa2f7&descAlignY=58" width="100%" alt="Header" />
 
 <a href="https://github.com/NathanaelSianipar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Nathanael+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+mudah+dipelihara;Laravel+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Dart+%C2%B7+HTML;Terbuka+untuk+kolaborasi+%26+magang+%26+belajar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Nathan+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+mudah+dipelihara;Laravel+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Dart+%C2%B7+HTML;Terbuka+untuk+kolaborasi+%26+magang+%26+belajar" alt="Typing SVG" />
 </a>
 
 <br/><br/>
