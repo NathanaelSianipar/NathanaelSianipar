@@ -41,7 +41,7 @@ export const DataDiri = {
     role : "Fullstack Developer" (calon),
     major : "D3 Teknologi Informasi",
     university : "Del Institute of Technology",
-  },
+  } ,
 
   status: {
     Jomblo 19 Tahun,
